@@ -9,11 +9,15 @@
 - network-manager-applet
 - python-psutil
 - brightnessctl
+- dmenu
+- alsa-utils
+- pamixer
+- pavucontrol
 ---
 - bluez
 - bluez-utils
 - blueberry
 - sudo systemctl enable --now bluetooth
 ---
-- lxappearance
+- lxappearance-gtk3
 - arc-gtk-theme
