@@ -9,12 +9,11 @@
 - network-manager-applet
 - python-psutil
 - brightnessctl
-
+---
 - bluez
 - bluez-utils
-- pulseaduio-bluetooth
 - blueberry
 - sudo systemctl enable --now bluetooth
-  
+---
 - lxappearance
 - arc-gtk-theme
