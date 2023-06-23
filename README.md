@@ -13,6 +13,7 @@
 - alsa-utils
 - pamixer
 - pavucontrol
+- ttf-jetbrains-mono
 ---
 - bluez
 - bluez-utils
