@@ -14,6 +14,7 @@
 - pamixer
 - pavucontrol
 - ttf-jetbrains-mono
+- unclutter
 ---
 - bluez
 - bluez-utils
