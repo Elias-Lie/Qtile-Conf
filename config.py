@@ -180,7 +180,8 @@ screens = [
                     padding=12,
                 ),
                 sep(),
-                widget.PulseVolume(
+                widget.Volume(
+                    volume_app="pavucontrol",
                 ),
                 text_sep(),
                 widget.Backlight(
